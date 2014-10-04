@@ -1,5 +1,6 @@
 [Ember-C3](https://github.com/Glavin001/ember-c3)
 ==========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fceruti/ember-c3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Ember component library for [C3, a D3-based reusable chart library](https://github.com/masayuki0812/c3).
 
